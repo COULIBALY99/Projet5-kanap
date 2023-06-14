@@ -1,0 +1,3 @@
+[submodule "front/dossir.html"]
+    path = front/dossier.html
+    url = <URL_du_sous-module>
